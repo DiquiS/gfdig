@@ -1,0 +1,6 @@
+print("first number: ")
+first_digit = input()
+print("second number: ")
+second_digit = input()
+print("output: ")
+print(int(first_digit)* int(second_digit))
